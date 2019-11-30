@@ -4,5 +4,6 @@ target 'iOSIM' do
 
 pod 'CocoaAsyncSocket'
 pod 'MBProgressHUD'
+pod 'SocketRocket'
 
 end
