@@ -44,8 +44,8 @@
 {
     [super viewWillAppear:animated];
     
-    UIViewController * vc = [self.storyboard instantiateViewControllerWithIdentifier:@"SocketVC_SBID"];
-    [self presentViewController:vc animated:YES completion:nil];
+//    UIViewController * vc = [self.storyboard instantiateViewControllerWithIdentifier:@"SocketVC_SBID"];
+//    [self presentViewController:vc animated:YES completion:nil];
 }
 
 
